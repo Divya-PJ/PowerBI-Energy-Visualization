@@ -44,11 +44,11 @@ The goal was to create a **simple one-page dashboard** showing the current (2020
 
 ## 📂 Repository Files
 - `Energy_generation - Dashboard 1.xlsx` → Dataset  
-- `powerbiweek2partr1.pbix` → Power BI dashboard file  
+- `energydashboard.pbix` → Power BI dashboard file  
 
 ## ▶️ How to Use
 1. Clone/download the repository.  
-2. Open `powerbiweek2partr1.pbix` in Power BI Desktop.  
+2. Open `energydashboard.pbix` in Power BI Desktop.  
 3. Interact with filters, cards, and visuals for insights.  
 
 ## 🔗 Related Links
