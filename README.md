@@ -49,13 +49,13 @@ The goal was to create a **simple one-page dashboard** showing the current (2020
 ## 📸 Dashboard Screenshots  
 
 ### 🔹 Table View  
-![Table View](images/table_view.png)  
+![Table View](images/Table View .png)  
 
 ### 🔹 Report View  
-![Report View](images/Report_view.png)  
+![Report View](images/Report View.png)  
 
 ### 🔹 Model View  
-![Model View](images/Model_View.png)
+![Model View](images/Model View.png)
 
 
 ## ▶️ How to Use
