@@ -65,6 +65,6 @@ The goal was to create a **simple one-page dashboard** showing the current (2020
 
 ## 🔗 Related Links
 - [Makeover Monday Project](https://www.makeovermonday.co.uk/)  
-- [LinkedIn Post](Insert your LinkedIn link after publishing)  
+- [LinkedIn Post]([(https://www.linkedin.com/posts/divya-p-j_powerbi-datascience-datavisualization-activity-7376981599080361985-Pweu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADkZb5cBcBX26UuFhb1ctPXdJmdNI6Iaubc))  
 
 ---
