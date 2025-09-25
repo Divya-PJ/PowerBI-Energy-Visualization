@@ -49,7 +49,9 @@ The goal was to create a **simple one-page dashboard** showing the current (2020
 ## ▶️ How to Use
 1. Clone/download the repository.  
 2. Open `energydashboard.pbix` in Power BI Desktop.  
-3. Interact with filters, cards, and visuals for insights.  
+3. Interact with filters, cards, and visuals for insights.
+
+![Dashboard Preview](images/dashboard.png)
 
 ## 🔗 Related Links
 - [Makeover Monday Project](https://www.makeovermonday.co.uk/)  
